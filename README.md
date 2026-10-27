@@ -19,7 +19,7 @@ I am Juntian "Oliver" Tu, a Ph.D. candidate and experimental AMO physicist at th
 |---|---|---|
 | [**JQIamo/AWG-on-GPU**](https://github.com/JQIamo/AWG-on-GPU.git) | A heterogeneous AWG architecture for real-time optical tweezer generation and rearrangement | `C/C++` `CUDA` |
 | [**SLM_hologram-mirror**](https://github.com/TGOJName/SLM_hologram-mirror.git) | A phase pattern generator for rapid SLM control using (modified) Gerchberg-Saxton algorithm | `C/C++` `CUDA` |
-| [**JQIamo/ESBL_RFSoc**]([https://github.com/TGOJName/SLM_hologram-mirror.git](https://github.com/JQIamo/ESBL_RFSoc.git)) | An integrated QAM modulator on FPGA-based RFSoC platform for electronic sideband PDH locking | `Verilog` `Python` |
+| [**JQIamo/ESBL_RFSoc**](https://github.com/JQIamo/ESBL_RFSoc.git) | An integrated QAM modulator on FPGA-based RFSoC platform for electronic sideband PDH locking | `Verilog` `Python` |
 | [**Diffraction-Simulation-for-Half-cavity**](https://github.com/TGOJName/Diffraction-Simulation-for-Half-cavity.git) | Diffraction simulation of a half-cavity design containing high-NA optics | `Python` |
 | [**JQIamo/Eurocard_DDS**](https://github.com/JQIamo/Eurocard_DDS.git) | A hardware design of a portable DDS signal generator | `Arduino/C` `KiCad` |
 
